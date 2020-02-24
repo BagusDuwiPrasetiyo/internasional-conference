@@ -20,7 +20,7 @@
     <link rel="stylesheet" href="<?= base_url('assets/'); ?>css/style.css">
   </head>
   <body>
-    <div class="site-wrap">
+    <div class="container-fluid">
       <div class="site-mobile-menu">
         <div class="site-mobile-menu-header">
           <div class="site-mobile-menu-close mt-3">
