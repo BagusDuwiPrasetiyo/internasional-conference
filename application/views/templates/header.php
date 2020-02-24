@@ -1,106 +1,73 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-
-  <!-- SITE TITTLE -->
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Eventre</title>
-  
-  <!-- PLUGINS CSS STYLE -->
-  <!-- Bootstrap -->
-  <link href="<?= base_url('assets/'); ?>plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <!-- Themefisher Font -->  
-  <link href="<?= base_url('assets/'); ?>plugins/themefisher-font/style.css" rel="stylesheet">
-  <!-- Font Awesome -->
-  <link href="<?= base_url('assets/'); ?>plugins/font-awsome/css/font-awesome.min.css" rel="stylesheet">
-  <!-- Magnific Popup -->
-  <link href="<?= base_url('assets/'); ?>plugins/magnific-popup/magnific-popup.css" rel="stylesheet">
-  <!-- Slick Carousel -->
-  <link href="<?= base_url('assets/'); ?>plugins/slick/slick.css" rel="stylesheet">
-  <link href="<?= base_url('assets/'); ?>plugins/slick/slick-theme.css" rel="stylesheet">
-  <!-- CUSTOM CSS -->
-  <link href="<?= base_url('assets/'); ?>css/style.css" rel="stylesheet">
-
-  <!-- FAVICON -->
-  <link href="<?= base_url('assets/'); ?>images/favicon.png" rel="shortcut icon">
-
-</head>
-
-<body class="body-wrapper">
-
-
-<!--========================================
-=            Navigation Section            =
-=========================================-->
-
-<nav class="navbar main-nav border-less fixed-top navbar-expand-lg p-0">
-  <div class="container-fluid p-0">
-      <!-- logo -->
-      <a class="navbar-brand" href="index.html">
-        <img src="<?= base_url('assets/'); ?>images/logo.png" alt="logo">
-      </a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="fa fa-bars"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarNav">
-      <ul class="navbar-nav mx-auto">
-        <li class="nav-item dropdown active dropdown-slide">
-          <a class="nav-link" href="#"  data-toggle="dropdown">Home
-            <span>/</span>
-          </a>
-          <!-- Dropdown list -->
-          <div class="dropdown-menu">
-            <a class="dropdown-item" href="index.html">Homepage</a>
-            <a class="dropdown-item" href="homepage-two.html">Homepage 2</a>
+  <!-- Mirrored from colorlib.com/preview/theme/neos/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 24 Feb 2020 10:35:58 GMT -->
+  <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+  <head>
+    <title>Neos &mdash; Website Template by Colorlib</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link href="https://fonts.googleapis.com/css?family=Oswald:400,700|Work+Sans:300,400,700" rel="stylesheet">
+    <link rel="stylesheet" href="<?= base_url('assets/'); ?>fonts/icomoon/style.css">
+    <link rel="stylesheet" href="<?= base_url('assets/'); ?>css/bootstrap.min.css">
+    <link rel="stylesheet" href="<?= base_url('assets/'); ?>css/magnific-popup.css">
+    <link rel="stylesheet" href="<?= base_url('assets/'); ?>css/jquery-ui.css">
+    <link rel="stylesheet" href="<?= base_url('assets/'); ?>css/owl.carousel.min.css">
+    <link rel="stylesheet" href="<?= base_url('assets/'); ?>css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="<?= base_url('assets/'); ?>css/bootstrap-datepicker.css">
+    <link rel="stylesheet" href="<?= base_url('assets/'); ?>css/animate.css">
+    <link rel="stylesheet" href="<?= base_url('assets/'); ?>fonts/flaticon/font/flaticon.css">
+    <link rel="stylesheet" href="<?= base_url('assets/'); ?>css/aos.css">
+    <link rel="stylesheet" href="<?= base_url('assets/'); ?>css/style.css">
+  </head>
+  <body>
+    <div class="site-wrap">
+      <div class="site-mobile-menu">
+        <div class="site-mobile-menu-header">
+          <div class="site-mobile-menu-close mt-3">
+            <span class="icon-close2 js-menu-toggle"></span>
           </div>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="speakers.html">Speakers
-            <span>/</span>
-          </a>
-        </li>
-        <li class="nav-item dropdown dropdown-slide">
-          <a class="nav-link" href="#" data-toggle="dropdown">Pages<span>/</span></a>
-            <!-- Dropdown list -->
-            <div class="dropdown-menu">
-              <a class="dropdown-item" href="about-us.html">About Us</a>
-              <a class="dropdown-item" href="single-speaker.html">Single Speaker</a>
-              <a class="dropdown-item" href="gallery.html">Gallery</a>
-              <a class="dropdown-item" href="gallery-two.html">Gallery-02</a>
-              <a class="dropdown-item" href="testimonial.html">Testimonial</a>
-              <a class="dropdown-item" href="pricing.html">Pricing</a>
-              <a class="dropdown-item" href="FAQ.html">FAQ</a>
-              <a class="dropdown-item" href="404.html">404</a>
-            </div>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="schedule.html">Schedule<span>/</span></a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="sponsors.html">Sponsors<span>/</span></a>
-        </li>
-        <li class="nav-item dropdown dropdown-slide">
-          <a class="nav-link" href="#"  data-toggle="dropdown">News
-            <span>/</span>
-          </a>
-          <!-- Dropdown list -->
-          <div class="dropdown-menu">
-            <a class="dropdown-item" href="news.html">News without sidebar</a>
-            <a class="dropdown-item" href="news-right-sidebar.html">News with right sidebar</a>
-            <a class="dropdown-item" href="news-left-sidebar.html">News with left sidebar</a>
-            <a class="dropdown-item" href="news-single.html">News Single</a>
-          </div>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="contact.html">Contact</a>
-        </li>
-      </ul>
-      <a href="#" class="ticket">
-        <img src="<?= base_url('assets/'); ?>images/icon/ticket.png" alt="ticket">
-        <span>Buy Ticket</span>
-      </a>
+        </div>
+        <div class="site-mobile-menu-body"></div>
       </div>
-  </div>
-</nav>
+      <div class="site-navbar-wrap js-site-navbar bg-white">
+        <div class="container">
+          <div class="site-navbar bg-light">
+            <div class="row align-items-center">
+              <div class="col-2">
+                <h2 class="mb-0 site-logo"><a href="index-2.html" class="font-weight-bold text-uppercase">Neos</a></h2>
+              </div>
+              <div class="col-10">
+                <nav class="site-navigation text-right" role="navigation">
+                  <div class="container">
+                    <div class="d-inline-block d-lg-none ml-md-0 mr-auto py-3"><a href="#" class="site-menu-toggle js-menu-toggle text-black"><span class="icon-menu h3"></span></a></div>
+                    <ul class="site-menu js-clone-nav d-none d-lg-block">
+                      <li class="active"><a href="index-2.html">Home</a></li>
+                      <li class="has-children">
+                        <a href="about.html">About</a>
+                        <ul class="dropdown arrow-top">
+                          <li><a href="testimonials.html">Testimonials</a></li>
+                          <li><a href="gallery.html">Gallery</a></li>
+                          <li><a href="faq.html">FAQ</a></li>
+                          <li><a href="why-choose-us.html">Why Choose Us</a></li>
+                          <li class="has-children">
+                            <a href="#">Sub Menus</a>
+                            <ul class="dropdown">
+                              <li><a href="testimonials.html">Testimonials</a></li>
+                              <li><a href="gallery.html">Gallery</a></li>
+                              <li><a href="why-choose-us.html">Why Choose Us</a></li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </li>
+                      <li><a href="services.html">Services</a></li>
+                      <li><a href="blog.html">Blog</a></li>
+                      <li><a href="contact.html">Contact</a></li>
+                      <li><a href="contact.html"><span class="d-inline-block bg-primary text-white btn btn-primary">Get Started</span></a></li>
+                    </ul>
+                  </div>
+                </nav>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
