@@ -60,14 +60,45 @@
 	</div>
 </div>
 <div class="site-half">
-	<div class="img-bg-1" style="background-image: url('<?= base_url('assets/'); ?>images/img_4.jpg');" data-aos="fade"></div>
 	<div class="container">
 		<div class="row no-gutters align-items-stretch">
-			<div class="col-lg-5 ml-lg-auto py-5">
-				<span class="caption d-block mb-2 font-secondary font-weight-bold">Outstanding Services</span>
-				<h2 class="site-section-heading text-uppercase font-secondary mb-5">Clean Design</h2>
-				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus aliquid eius facilis voluptatem eligendi magnam accusamus vel commodi asperiores sint rem reprehenderit nobis nesciunt veniam qui fugit doloremque numquam quod.</p>
-				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur tempora distinctio ipsam nesciunt recusandae repellendus asperiores amet.</p>
+			<div class="col-lg-3 ml-lg-auto py-5 justify-content-center" style="font-size: 13px;">
+				<h2 class="site-section-heading text-uppercase font-secondary mb-2">Important Dates</h2>
+				<p>Abstract Submission Deadline</p>
+				<p><span style="text-decoration:line-through">31 July 2019</span> 20 September 2019</p>
+				<p>Abstract Acceptance Announcement</p>
+				<p><span style="text-decoration:line-through">07 August 2019</span> 25 September 2019</p>
+				<p>Deadline of Early Bird Registration</p>
+				<p><span style="text-decoration:line-through">30 August 2019</span> 25 September 2019</p>
+				<p>Full Paper Submission</p>
+				<p><span style="text-decoration:line-through">10 September 2019</span> 10 October 2019</p>
+				<p>Notification of acceptance Full Paper</p>
+				<p><span style="text-decoration:line-through">30 September 2019</span> 20 October 2019</p>
+				<p>Camera Ready Paper</p>
+				<p><span style="text-decoration:line-through">15 October 2019</span> 25 October 2019</p>
+				<p>Conference Date</p>
+				<p>2 – 3 November 2019</p>
+			</div>
+			<div class="col-lg-6 ml-lg-auto py-5">
+				<h2 class="site-section-heading text-uppercase font-secondary mb-2">Background</h2>
+				<p>Increasing global population is inevitable and this will bring a number of challenges including the need for more food. On the other hand, good ecosystem services are vital for human being. In the future, provision of high quality and sufficient amount of food have to be accompanied by healthy ecosystem. Hence, contribution of applied sciences and technology is expected to elucidate that situation. Following successful of the first conference, the second International Conference on Food and Agriculture (ICoFA) will be conducted to address the theme of “Contribution of Applied Sciences and Technology to Food and Agroecology”. The conference will gather scientists, researchers, students and practitioners to discuss essential topic in food and agroecology. ICoFA is dedicated to present high quality researches delivered by reputable keynote speakers as well as invited speakers from Asia region.</p>
+			</div>
+			<div class="col-lg-3 ml-lg-auto py-5">
+				<h2 class="site-section-heading text-uppercase font-secondary mb-2">Contact</h2>
+				<p>Abstract Submission Deadline</p>
+				<p><span style="text-decoration:line-through">31 July 2019</span>20 September 2019</p>
+				<p>Abstract Acceptance Announcement</p>
+				<p>07 August 2019 25 September 2019</p>
+				<p>Deadline of Early Bird Registration</p>
+				<p>30 August 2019 25 September 2019</p>
+				<p>Full Paper Submission</p>
+				<p>10 September 2019 10 October 2019</p>
+				<p>Notification of acceptance Full Paper</p>
+				<p>30 September 2019 20 October 2019</p>
+				<p>Camera Ready Paper</p>
+				<p></p>
+				<p></p>
+				<p></p>
 			</div>
 		</div>
 	</div>
@@ -77,10 +108,8 @@
 	<div class="container">
 		<div class="row no-gutters align-items-stretch">
 			<div class="col-lg-5 mr-lg-auto py-5">
-				<span class="caption d-block mb-2 font-secondary font-weight-bold">Easy To Use Templates</span>
-				<h2 class="site-section-heading text-uppercase font-secondary mb-5">Free HTML5 Templates</h2>
-				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus aliquid eius facilis voluptatem eligendi magnam accusamus vel commodi asperiores sint rem reprehenderit nobis nesciunt veniam qui fugit doloremque numquam quod.</p>
-				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur tempora distinctio ipsam nesciunt recusandae repellendus asperiores amet.</p>
+				<h2 class="site-section-heading text-uppercase font-secondary mb-2">Aim and Scope</h2>
+				<p>The 2nd International Conference on Food and Agriculture will be held on 2 – 3 November 2019 in Nusa Dua, Bali, Indonesia. Hosted by Politeknik Negeri Jember, the event is intended to provide technical forum and research discussion on food, agriculture, and how technology is effectively employed for sustainable development of food and agriculture. The conference will cover a series of presentations and discussions in plenary, concurrent and poster sessions. It is aimed to bring researchers, academicians, scientists, students, and practitioners together to participate and present the latest research findings, developments, and applications related to various aspects comprising agriculture engineering and biotechnology, organic agriculture, agroindustry and agribusiness, animal nutrition, animal production, and veterinary science, food science and technology, food safety, food security and sovereignty, IT for agriculture, renewable and novel energy sources and other topics related to food and agriculture.</p>
 			</div>
 		</div>
 	</div>
@@ -99,49 +128,30 @@
 					<div class="media-image">
 						<img src="<?= base_url('assets/'); ?>images/img_1.jpg" alt="Image" class="img-fluid">
 						<div class="media-image-body">
-							<h2 class="font-secondary text-uppercase">Pixel Perfect</h2>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga, voluptate.</p>
-							<p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p>
+							<h2 class="font-secondary text-uppercase">Hafiz Shahbaz, PhD</h2>
+							<p>Department of Food Science & Human Nutrition, University of Veterinary and Animal Sciences ( Pakistan )</p>
 						</div>
 					</div>
 					<div class="media-image">
 						<img src="<?= base_url('assets/'); ?>images/img_2.jpg" alt="Image" class="img-fluid">
 						<div class="media-image-body">
-							<h2 class="font-secondary text-uppercase">Template Under CCA 3.0 Unported</h2>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga, voluptate.</p>
-							<p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p>
+							<h2 class="font-secondary text-uppercase">Prof Eun Joong KimProf Eun Joong Kim</h2>
+							<p>College of Ecology and Environmental Science, Department of Animal Science, Kyungpook National University (South Korea) </p>
 						</div>
 					</div>
 					<div class="media-image">
 						<img src="<?= base_url('assets/'); ?>images/img_3.jpg" alt="Image" class="img-fluid">
 						<div class="media-image-body">
-							<h2 class="font-secondary text-uppercase">Useful Web Templates</h2>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga, voluptate.</p>
-							<p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p>
+							<h2 class="font-secondary text-uppercase">Assoc. Prof. Dr. Rosma Ahmad</h2>
+							<p>Bioprocess Technology Divison, School of Industrial Technology, Universiti Sains Malaysia, Penang
+								(Malaysia)</p>
 						</div>
 					</div>
 					<div class="media-image">
 						<img src="<?= base_url('assets/'); ?>images/img_1.jpg" alt="Image" class="img-fluid">
 						<div class="media-image-body">
-							<h2 class="font-secondary text-uppercase">HTML5 / CSS3</h2>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga, voluptate.</p>
-							<p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p>
-						</div>
-					</div>
-					<div class="media-image">
-						<img src="<?= base_url('assets/'); ?>images/img_4.jpg" alt="Image" class="img-fluid">
-						<div class="media-image-body">
-							<h2 class="font-secondary text-uppercase">Bootstrap 4</h2>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga, voluptate.</p>
-							<p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p>
-						</div>
-					</div>
-					<div class="media-image">
-						<img src="<?= base_url('assets/'); ?>images/img_5.jpg" alt="Image" class="img-fluid">
-						<div class="media-image-body">
-							<h2 class="font-secondary text-uppercase">SCSS</h2>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga, voluptate.</p>
-							<p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p>
+							<h2 class="font-secondary text-uppercase">Prof. dr. Ali Ghufron Mukti, MSc., Ph.D.</h2>
+							<p>Director General of Science, Technology and Higher Education Resources of the Ministry of Research, Technology and Higher Education (Indonesia)</p>
 						</div>
 					</div>
 				</div>
@@ -189,91 +199,91 @@
 					<img src="<?= base_url('assets/'); ?>images/person_1.jpg" alt="Image" class="img-fluid rounded-circle w-25 mx-auto">
 				</div>
 				<div>
-					<h2 class="h5 mb-4">Katie Johnson</h2>
-				<blockquote>&ldquo;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias accusantium qui optio, possimus necessitatibus voluptate aliquam velit nostrum tempora ipsam!&rdquo;</blockquote>
+					<h2 class="h5 mb-4">Hafiz Shahbaz, PhD</h2>
+					<blockquote>&ldquo;Department of Food Science & Human Nutrition, University of Veterinary and Animal Sciences ( Pakistan )rdquo;</blockquote>
+				</div>
+			</div>
+			<div class="d-block block-testimony mx-auto text-center">
+				<div class="person w-25 mx-auto mb-4">
+					<img src="<?= base_url('assets/'); ?>images/person_2.jpg" alt="Image" class="img-fluid rounded-circle w-25 mx-auto">
+				</div>
+				<div>
+					<h2 class="h5 mb-4">Jun Mars</h2>
+					<blockquote>&ldquo;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias accusantium qui optio, possimus necessitatibus voluptate aliquam velit nostrum tempora ipsam!&rdquo;</blockquote>
+				</div>
+			</div>
+			<div class="d-block block-testimony mx-auto text-center">
+				<div class="person w-25 mx-auto mb-4">
+					<img src="<?= base_url('assets/'); ?>images/person_3.jpg" alt="Image" class="img-fluid rounded-circle w-25 mx-auto">
+				</div>
+				<div>
+					<h2 class="h5 mb-4">Shane Holmes</h2>
+					<blockquote>&ldquo;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias accusantium qui optio, possimus necessitatibus voluptate aliquam velit nostrum tempora ipsam!&rdquo;</blockquote>
+				</div>
+			</div>
+			<div class="d-block block-testimony mx-auto text-center">
+				<div class="person w-25 mx-auto mb-4">
+					<img src="<?= base_url('assets/'); ?>images/person_4.jpg" alt="Image" class="img-fluid rounded-circle w-25 mx-auto">
+				</div>
+				<div>
+					<h2 class="h5 mb-4">Mark Johnson</h2>
+					<blockquote>&ldquo;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias accusantium qui optio, possimus necessitatibus voluptate aliquam velit nostrum tempora ipsam!&rdquo;</blockquote>
+				</div>
 			</div>
 		</div>
-		<div class="d-block block-testimony mx-auto text-center">
-			<div class="person w-25 mx-auto mb-4">
-				<img src="<?= base_url('assets/'); ?>images/person_2.jpg" alt="Image" class="img-fluid rounded-circle w-25 mx-auto">
-			</div>
-			<div>
-				<h2 class="h5 mb-4">Jun Mars</h2>
-			<blockquote>&ldquo;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias accusantium qui optio, possimus necessitatibus voluptate aliquam velit nostrum tempora ipsam!&rdquo;</blockquote>
-		</div>
 	</div>
-	<div class="d-block block-testimony mx-auto text-center">
-		<div class="person w-25 mx-auto mb-4">
-			<img src="<?= base_url('assets/'); ?>images/person_3.jpg" alt="Image" class="img-fluid rounded-circle w-25 mx-auto">
-		</div>
-		<div>
-			<h2 class="h5 mb-4">Shane Holmes</h2>
-		<blockquote>&ldquo;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias accusantium qui optio, possimus necessitatibus voluptate aliquam velit nostrum tempora ipsam!&rdquo;</blockquote>
-	</div>
-</div>
-<div class="d-block block-testimony mx-auto text-center">
-	<div class="person w-25 mx-auto mb-4">
-		<img src="<?= base_url('assets/'); ?>images/person_4.jpg" alt="Image" class="img-fluid rounded-circle w-25 mx-auto">
-	</div>
-	<div>
-		<h2 class="h5 mb-4">Mark Johnson</h2>
-	<blockquote>&ldquo;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias accusantium qui optio, possimus necessitatibus voluptate aliquam velit nostrum tempora ipsam!&rdquo;</blockquote>
-</div>
-</div>
-</div>
-</div>
 </div>
 <div class="site-section">
-<div class="container">
-<div class="row mb-5">
-<div class="col-md-12" data-aos="fade">
-<h2 class="site-section-heading text-center text-uppercase">Recent Blog Posts</h2>
-</div>
-</div>
-<div class="row">
-<div class="col-md-6 col-lg-4 mb-5" data-aos="fade-up" data-aos-delay="100">
-<div class="media-image">
-	<a href="single.html"><img src="<?= base_url('assets/'); ?>images/img_1.jpg" alt="Image" class="img-fluid"></a>
-	<div class="media-image-body">
-		<h2 class="font-secondary text-uppercase"><a href="single.html">Where Do You Learn HTML & CSS in 2019?</a></h2>
-		<span class="d-block mb-3">By James &mdash; Jan. 20, 2019</span>
-		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga, voluptate.</p>
-		<p><a href="#">Read More</a></p>
+	<div class="container">
+		<div class="row mb-5">
+			<div class="col-md-12" data-aos="fade">
+				<h2 class="site-section-heading text-center text-uppercase">Recent Blog Posts</h2>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-6 col-lg-4 mb-5" data-aos="fade-up" data-aos-delay="100">
+				<div class="media-image">
+					<a href="single.html"><img src="<?= base_url('assets/'); ?>images/img_1.jpg" alt="Image" class="img-fluid"></a>
+					<div class="media-image-body">
+						<h2 class="font-secondary text-uppercase"><a href="single.html">Where Do You Learn HTML & CSS in 2019?</a></h2>
+						<span class="d-block mb-3">By James &mdash; Jan. 20, 2019</span>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga, voluptate.</p>
+						<p><a href="#">Read More</a></p>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-6 col-lg-4 mb-5" data-aos="fade-up" data-aos-delay="200">
+				<div class="media-image">
+					<a href="single.html"><img src="<?= base_url('assets/'); ?>images/img_2.jpg" alt="Image" class="img-fluid"></a>
+					<div class="media-image-body">
+						<h2 class="font-secondary text-uppercase"><a href="single.html">Where Do You Learn HTML & CSS in 2019?</a></h2>
+						<span class="d-block mb-3">By James &mdash; Jan. 20, 2019</span>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga, voluptate.</p>
+						<p><a href="#">Read More</a></p>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-6 col-lg-4 mb-5" data-aos="fade-up" data-aos-delay="300">
+				<div class="media-image">
+					<a href="single.html"><img src="<?= base_url('assets/'); ?>images/img_3.jpg" alt="Image" class="img-fluid"></a>
+					<div class="media-image-body">
+						<h2 class="font-secondary text-uppercase"><a href="single.html">Where Do You Learn HTML & CSS in 2019?</a></h2>
+						<span class="d-block mb-3">By James &mdash; Jan. 20, 2019</span>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga, voluptate.</p>
+						<p><a href="#">Read More</a></p>
+					</div>
+				</div>
+			</div>
+		</div>
 	</div>
-</div>
-</div>
-<div class="col-md-6 col-lg-4 mb-5" data-aos="fade-up" data-aos-delay="200">
-<div class="media-image">
-	<a href="single.html"><img src="<?= base_url('assets/'); ?>images/img_2.jpg" alt="Image" class="img-fluid"></a>
-	<div class="media-image-body">
-		<h2 class="font-secondary text-uppercase"><a href="single.html">Where Do You Learn HTML & CSS in 2019?</a></h2>
-		<span class="d-block mb-3">By James &mdash; Jan. 20, 2019</span>
-		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga, voluptate.</p>
-		<p><a href="#">Read More</a></p>
-	</div>
-</div>
-</div>
-<div class="col-md-6 col-lg-4 mb-5" data-aos="fade-up" data-aos-delay="300">
-<div class="media-image">
-	<a href="single.html"><img src="<?= base_url('assets/'); ?>images/img_3.jpg" alt="Image" class="img-fluid"></a>
-	<div class="media-image-body">
-		<h2 class="font-secondary text-uppercase"><a href="single.html">Where Do You Learn HTML & CSS in 2019?</a></h2>
-		<span class="d-block mb-3">By James &mdash; Jan. 20, 2019</span>
-		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga, voluptate.</p>
-		<p><a href="#">Read More</a></p>
-	</div>
-</div>
-</div>
-</div>
-</div>
 </div>
 <div class="py-5 bg-primary">
-<div class="container">
-<div class="row align-items-center justify-content-center">
-<div class="col-md-6 text-center mb-3 mb-md-0">
-<h2 class="text-uppercase text-white mb-4" data-aos="fade-up">Try For Your Next Project</h2>
-<a href="#" class="btn btn-bg-primary font-secondary text-uppercase" data-aos="fade-up" data-aos-delay="100">Contact Us</a>
-</div>
-</div>
-</div>
+	<div class="container">
+		<div class="row align-items-center justify-content-center">
+			<div class="col-md-6 text-center mb-3 mb-md-0">
+				<h2 class="text-uppercase text-white mb-4" data-aos="fade-up">Try For Your Next Project</h2>
+				<a href="#" class="btn btn-bg-primary font-secondary text-uppercase" data-aos="fade-up" data-aos-delay="100">Contact Us</a>
+			</div>
+		</div>
+	</div>
 </div>
