@@ -55,31 +55,31 @@
   <div class="row pt-5 mt-5 text-center">
     <div class="col-md-12">
       <p>
-        Copyright &copy;<script type="93fa90c88ae2b9536e0e25a5-text/javascript">document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart text-danger" aria-hidden="true"></i> by <a href="https://colorlib.com/" target="_blank">Colorlib</a>
+        Copyright &copy;<script type="text/javascript">document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart text-danger" aria-hidden="true"></i> by <a href="https://colorlib.com/" target="_blank">Colorlib</a>
       </p>
     </div>
   </div>
 </div>
 </footer>
 </div>
-<script src="<?= base_url('assets/'); ?>js/jquery-3.3.1.min.js" type="93fa90c88ae2b9536e0e25a5-text/javascript"></script>
-<script src="<?= base_url('assets/'); ?>js/jquery-migrate-3.0.1.min.js" type="93fa90c88ae2b9536e0e25a5-text/javascript"></script>
-<script src="<?= base_url('assets/'); ?>js/jquery-ui.js" type="93fa90c88ae2b9536e0e25a5-text/javascript"></script>
-<script src="<?= base_url('assets/'); ?>js/popper.min.js" type="93fa90c88ae2b9536e0e25a5-text/javascript"></script>
-<script src="<?= base_url('assets/'); ?>js/bootstrap.min.js" type="93fa90c88ae2b9536e0e25a5-text/javascript"></script>
-<script src="<?= base_url('assets/'); ?>js/owl.carousel.min.js" type="93fa90c88ae2b9536e0e25a5-text/javascript"></script>
-<script src="<?= base_url('assets/'); ?>js/jquery.stellar.min.js" type="93fa90c88ae2b9536e0e25a5-text/javascript"></script>
-<script src="<?= base_url('assets/'); ?>js/jquery.waypoints.min.js" type="93fa90c88ae2b9536e0e25a5-text/javascript"></script>
-<script src="<?= base_url('assets/'); ?>js/jquery.animateNumber.min.js" type="93fa90c88ae2b9536e0e25a5-text/javascript"></script>
-<script src="<?= base_url('assets/'); ?>js/aos.js" type="93fa90c88ae2b9536e0e25a5-text/javascript"></script>
-<script src="<?= base_url('assets/'); ?>js/main.js" type="93fa90c88ae2b9536e0e25a5-text/javascript"></script>
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-23581568-13" type="93fa90c88ae2b9536e0e25a5-text/javascript"></script>
-<script type="93fa90c88ae2b9536e0e25a5-text/javascript">
+<script src="<?= base_url('assets/'); ?>js/jquery-3.3.1.min.js" type="text/javascript"></script>
+<script src="<?= base_url('assets/'); ?>js/jquery-migrate-3.0.1.min.js" type="text/javascript"></script>
+<script src="<?= base_url('assets/'); ?>js/jquery-ui.js" type="text/javascript"></script>
+<script src="<?= base_url('assets/'); ?>js/popper.min.js" type="text/javascript"></script>
+<script src="<?= base_url('assets/'); ?>js/bootstrap.min.js" type="text/javascript"></script>
+<script src="<?= base_url('assets/'); ?>js/owl.carousel.min.js" type="text/javascript"></script>
+<script src="<?= base_url('assets/'); ?>js/jquery.stellar.min.js" type="text/javascript"></script>
+<script src="<?= base_url('assets/'); ?>js/jquery.waypoints.min.js" type="text/javascript"></script>
+<script src="<?= base_url('assets/'); ?>js/jquery.animateNumber.min.js" type="text/javascript"></script>
+<script src="<?= base_url('assets/'); ?>js/aos.js" type="text/javascript"></script>
+<script src="<?= base_url('assets/'); ?>js/main.js" type="text/javascript"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-23581568-13" type="text/javascript"></script>
+<script type="text/javascript">
 window.dataLayer = window.dataLayer || [];
 function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
 gtag('config', 'UA-23581568-13');
 </script>
-<script src="<?= base_url('assets/'); ?>../../../../ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="93fa90c88ae2b9536e0e25a5-|49" defer=""></script></body>
+<script src="<?= base_url('assets/'); ?>../../../../ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="|49" defer=""></script></body>
 <!-- Mirrored from colorlib.com/preview/theme/neos/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 24 Feb 2020 10:36:08 GMT -->
 </html>
