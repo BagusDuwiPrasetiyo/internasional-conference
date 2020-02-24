@@ -18,7 +18,7 @@
 		</div>
 	</div>
 </div>
-<div class="slant-1"></div>
+<div class="slant-1" style="z-index: 0"></div>
 <div class="site-section first-section">
 	<div class="container">
 		<div class="row mb-5">
