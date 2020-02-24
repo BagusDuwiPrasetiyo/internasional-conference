@@ -38,7 +38,7 @@
 		<div class="row">
 			<div class="col-lg-4 col-md-6 align-self-center">
 				<div class="image-block bg-about">
-					<img class="img-fluid" src="images/speakers/featured-speaker.jpg" alt="">
+					<img class="img-fluid" src="<?= base_url('assets/'); ?>images/speakers/featured-speaker.jpg" alt="">
 				</div>
 			</div>
 			<div class="col-lg-8 col-md-6 align-self-center">
@@ -88,7 +88,7 @@
 				<!-- Speaker 1 -->
 				<div class="speaker-item">
 					<div class="image">
-						<img src="images/speakers/speaker-one.jpg" alt="speaker" class="img-fluid">
+						<img src="<?= base_url('assets/'); ?>images/speakers/speaker-one.jpg" alt="speaker" class="img-fluid">
 						<div class="primary-overlay"></div>
 						<div class="socials">
 							<ul class="list-inline">
@@ -109,7 +109,7 @@
 				<!-- Speaker 2 -->
 				<div class="speaker-item">
 					<div class="image">
-						<img src="images/speakers/speaker-two.jpg" alt="speaker" class="img-fluid">
+						<img src="<?= base_url('assets/'); ?>images/speakers/speaker-two.jpg" alt="speaker" class="img-fluid">
 						<div class="primary-overlay"></div>
 						<div class="socials">
 							<ul class="list-inline">
@@ -130,7 +130,7 @@
 				<!-- Speaker 3 -->
 				<div class="speaker-item">
 					<div class="image">
-						<img src="images/speakers/speaker-three.jpg" alt="speaker" class="img-fluid">
+						<img src="<?= base_url('assets/'); ?>images/speakers/speaker-three.jpg" alt="speaker" class="img-fluid">
 						<div class="primary-overlay"></div>
 						<div class="socials">
 							<ul class="list-inline">
@@ -151,7 +151,7 @@
 				<!-- Speaker 4 -->
 				<div class="speaker-item">
 					<div class="image">
-						<img src="images/speakers/speaker-four.jpg" alt="speaker" class="img-fluid">
+						<img src="<?= base_url('assets/'); ?>images/speakers/speaker-four.jpg" alt="speaker" class="img-fluid">
 						<div class="primary-overlay"></div>
 						<div class="socials">
 							<ul class="list-inline">
@@ -172,7 +172,7 @@
 				<!-- Speaker 5 -->
 				<div class="speaker-item">
 					<div class="image">
-						<img src="images/speakers/speaker-five.jpg" alt="speaker" class="img-fluid">
+						<img src="<?= base_url('assets/'); ?>images/speakers/speaker-five.jpg" alt="speaker" class="img-fluid">
 						<div class="primary-overlay"></div>
 						<div class="socials">
 							<ul class="list-inline">
@@ -193,7 +193,7 @@
 				<!-- Speaker 1 -->
 				<div class="speaker-item">
 					<div class="image">
-						<img src="images/speakers/speaker-six.jpg" alt="speaker" class="img-fluid">
+						<img src="<?= base_url('assets/'); ?>images/speakers/speaker-six.jpg" alt="speaker" class="img-fluid">
 						<div class="primary-overlay"></div>
 						<div class="socials">
 							<ul class="list-inline">
@@ -214,7 +214,7 @@
 				<!-- Speaker 7 -->
 				<div class="speaker-item">
 					<div class="image">
-						<img src="images/speakers/speaker-five.jpg" alt="speaker" class="img-fluid">
+						<img src="<?= base_url('assets/'); ?>images/speakers/speaker-five.jpg" alt="speaker" class="img-fluid">
 						<div class="primary-overlay"></div>
 						<div class="socials">
 							<ul class="list-inline">
@@ -235,7 +235,7 @@
 				<!-- Speaker 8 -->
 				<div class="speaker-item">
 					<div class="image">
-						<img src="images/speakers/speaker-six.jpg" alt="speaker" class="img-fluid">
+						<img src="<?= base_url('assets/'); ?>images/speakers/speaker-six.jpg" alt="speaker" class="img-fluid">
 						<div class="primary-overlay"></div>
 						<div class="socials">
 							<ul class="list-inline">
@@ -317,7 +317,7 @@
 							  		</div>
 							  		<!-- Speaker -->
 							  		<div class="speaker">
-							  			<img src="images/speakers/speaker-thumb-one.jpg" alt="speaker-thumb-one">
+							  			<img src="<?= base_url('assets/'); ?>images/speakers/speaker-thumb-one.jpg" alt="speaker-thumb-one">
 										<span class="name">Samanta Doe</span>
 							  		</div>
 							  		<!-- Subject -->
@@ -336,7 +336,7 @@
 							  		</div>
 							  		<!-- Speaker -->
 							  		<div class="speaker">
-							  			<img src="images/speakers/speaker-thumb-two.jpg" alt="speaker-thumb-two">
+							  			<img src="<?= base_url('assets/'); ?>images/speakers/speaker-thumb-two.jpg" alt="speaker-thumb-two">
 										<span class="name">Zerad Pawel</span>
 							  		</div>
 							  		<!-- Subject -->
@@ -355,7 +355,7 @@
 							  		</div>
 							  		<!-- Speaker -->
 							  		<div class="speaker">
-							  			<img src="images/speakers/speaker-thumb-three.jpg" alt="speaker-thumb-three">
+							  			<img src="<?= base_url('assets/'); ?>images/speakers/speaker-thumb-three.jpg" alt="speaker-thumb-three">
 										<span class="name">Henry Mong</span>
 							  		</div>
 							  		<!-- Subject -->
@@ -374,7 +374,7 @@
 							  		</div>
 							  		<!-- Speaker -->
 							  		<div class="speaker">
-							  			<img src="images/speakers/speaker-thumb-four.jpg" alt="speaker-thumb-four">
+							  			<img src="<?= base_url('assets/'); ?>images/speakers/speaker-thumb-four.jpg" alt="speaker-thumb-four">
 										<span class="name">Baily Leo</span>
 							  		</div>
 							  		<!-- Subject -->
@@ -393,7 +393,7 @@
 							  		</div>
 							  		<!-- Speaker -->
 							  		<div class="speaker">
-							  			<img src="images/speakers/speaker-thumb-five.jpg" alt="speaker-thumb-five">
+							  			<img src="<?= base_url('assets/'); ?>images/speakers/speaker-thumb-five.jpg" alt="speaker-thumb-five">
 										<span class="name">Lee Mun</span>
 							  		</div>
 							  		<!-- Subject -->
@@ -412,7 +412,7 @@
 							  		</div>
 							  		<!-- Speaker -->
 							  		<div class="speaker">
-							  			<img src="images/speakers/speaker-thumb-six.jpg" alt="speaker-thumb-six">
+							  			<img src="<?= base_url('assets/'); ?>images/speakers/speaker-thumb-six.jpg" alt="speaker-thumb-six">
 										<span class="name">Lee Mun</span>
 							  		</div>
 							  		<!-- Subject -->
@@ -442,7 +442,7 @@
 							  		</div>
 							  		<!-- Speaker -->
 							  		<div class="speaker">
-							  			<img src="images/speakers/speaker-thumb-one.jpg" alt="speaker-thumb-one">
+							  			<img src="<?= base_url('assets/'); ?>images/speakers/speaker-thumb-one.jpg" alt="speaker-thumb-one">
 										<span class="name">Samanta Doe</span>
 							  		</div>
 							  		<!-- Subject -->
@@ -461,7 +461,7 @@
 							  		</div>
 							  		<!-- Speaker -->
 							  		<div class="speaker">
-							  			<img src="images/speakers/speaker-thumb-two.jpg" alt="speaker-thumb-two">
+							  			<img src="<?= base_url('assets/'); ?>images/speakers/speaker-thumb-two.jpg" alt="speaker-thumb-two">
 										<span class="name">Zerad Pawel</span>
 							  		</div>
 							  		<!-- Subject -->
@@ -480,7 +480,7 @@
 							  		</div>
 							  		<!-- Speaker -->
 							  		<div class="speaker">
-							  			<img src="images/speakers/speaker-thumb-three.jpg" alt="speaker-thumb-three">
+							  			<img src="<?= base_url('assets/'); ?>images/speakers/speaker-thumb-three.jpg" alt="speaker-thumb-three">
 										<span class="name">Henry Mong</span>
 							  		</div>
 							  		<!-- Subject -->
@@ -499,7 +499,7 @@
 							  		</div>
 							  		<!-- Speaker -->
 							  		<div class="speaker">
-							  			<img src="images/speakers/speaker-thumb-four.jpg" alt="speaker-thumb-four">
+							  			<img src="<?= base_url('assets/'); ?>images/speakers/speaker-thumb-four.jpg" alt="speaker-thumb-four">
 										<span class="name">Baily Leo</span>
 							  		</div>
 							  		<!-- Subject -->
@@ -518,7 +518,7 @@
 							  		</div>
 							  		<!-- Speaker -->
 							  		<div class="speaker">
-							  			<img src="images/speakers/speaker-thumb-five.jpg" alt="speaker-thumb-five">
+							  			<img src="<?= base_url('assets/'); ?>images/speakers/speaker-thumb-five.jpg" alt="speaker-thumb-five">
 										<span class="name">Lee Mun</span>
 							  		</div>
 							  		<!-- Subject -->
@@ -537,7 +537,7 @@
 							  		</div>
 							  		<!-- Speaker -->
 							  		<div class="speaker">
-							  			<img src="images/speakers/speaker-thumb-six.jpg" alt="speaker-thumb-six">
+							  			<img src="<?= base_url('assets/'); ?>images/speakers/speaker-thumb-six.jpg" alt="speaker-thumb-six">
 										<span class="name">Lee Mun</span>
 							  		</div>
 							  		<!-- Subject -->
@@ -567,7 +567,7 @@
 							  		</div>
 							  		<!-- Speaker -->
 							  		<div class="speaker">
-							  			<img src="images/speakers/speaker-thumb-one.jpg" alt="speaker-thumb-one">
+							  			<img src="<?= base_url('assets/'); ?>images/speakers/speaker-thumb-one.jpg" alt="speaker-thumb-one">
 										<span class="name">Samanta Doe</span>
 							  		</div>
 							  		<!-- Subject -->
@@ -586,7 +586,7 @@
 							  		</div>
 							  		<!-- Speaker -->
 							  		<div class="speaker">
-							  			<img src="images/speakers/speaker-thumb-two.jpg" alt="speaker-thumb-two">
+							  			<img src="<?= base_url('assets/'); ?>images/speakers/speaker-thumb-two.jpg" alt="speaker-thumb-two">
 										<span class="name">Zerad Pawel</span>
 							  		</div>
 							  		<!-- Subject -->
@@ -605,7 +605,7 @@
 							  		</div>
 							  		<!-- Speaker -->
 							  		<div class="speaker">
-							  			<img src="images/speakers/speaker-thumb-three.jpg" alt="speaker-thumb-three">
+							  			<img src="<?= base_url('assets/'); ?>images/speakers/speaker-thumb-three.jpg" alt="speaker-thumb-three">
 										<span class="name">Henry Mong</span>
 							  		</div>
 							  		<!-- Subject -->
@@ -624,7 +624,7 @@
 							  		</div>
 							  		<!-- Speaker -->
 							  		<div class="speaker">
-							  			<img src="images/speakers/speaker-thumb-four.jpg" alt="speaker-thumb-four">
+							  			<img src="<?= base_url('assets/'); ?>images/speakers/speaker-thumb-four.jpg" alt="speaker-thumb-four">
 										<span class="name">Baily Leo</span>
 							  		</div>
 							  		<!-- Subject -->
@@ -643,7 +643,7 @@
 							  		</div>
 							  		<!-- Speaker -->
 							  		<div class="speaker">
-							  			<img src="images/speakers/speaker-thumb-five.jpg" alt="speaker-thumb-five">
+							  			<img src="<?= base_url('assets/'); ?>images/speakers/speaker-thumb-five.jpg" alt="speaker-thumb-five">
 										<span class="name">Lee Mun</span>
 							  		</div>
 							  		<!-- Subject -->
@@ -662,7 +662,7 @@
 							  		</div>
 							  		<!-- Speaker -->
 							  		<div class="speaker">
-							  			<img src="images/speakers/speaker-thumb-six.jpg" alt="speaker-thumb-six">
+							  			<img src="<?= base_url('assets/'); ?>images/speakers/speaker-thumb-six.jpg" alt="speaker-thumb-six">
 										<span class="name">Lee Mun</span>
 							  		</div>
 							  		<!-- Subject -->
@@ -890,7 +890,7 @@
 			</div>
 		</div>
 	</div>
-	<div class="image-block"><img src="images/speakers/speaker-ticket.png" alt="" class="img-fluid"></div>
+	<div class="image-block"><img src="<?= base_url('assets/'); ?><?= base_url('assets/'); ?>images/speakers/speaker-ticket.png" alt="" class="img-fluid"></div>
 </section>
 
 <!--====  End of Call to Action Ticket  ====-->
@@ -921,28 +921,28 @@
 						<li class="list-inline-item">
 							<div class="image-block text-center">
 								<a href="#">
-									<img src="images/sponsors/pt-spon-two.png" alt="sponsors-logo" class="img-fluid">
+									<img src="<?= base_url('assets/'); ?>images/sponsors/pt-spon-two.png" alt="sponsors-logo" class="img-fluid">
 								</a>
 							</div>
 						</li>
 						<li class="list-inline-item">
 							<div class="image-block text-center">
 								<a href="#">
-									<img src="images/sponsors/pt-spon-two.png" alt="sponsors-logo" class="img-fluid">
+									<img src="<?= base_url('assets/'); ?>images/sponsors/pt-spon-two.png" alt="sponsors-logo" class="img-fluid">
 								</a>
 							</div>
 						</li>
 						<li class="list-inline-item">
 							<div class="image-block text-center">
 								<a href="#">
-									<img src="images/sponsors/pt-spon-three.png" alt="sponsors-logo" class="img-fluid">
+									<img src="<?= base_url('assets/'); ?>images/sponsors/pt-spon-three.png" alt="sponsors-logo" class="img-fluid">
 								</a>
 							</div>
 						</li>
 						<li class="list-inline-item">
 							<div class="image-block text-center">
 								<a href="#">
-									<img src="images/sponsors/pt-spon-four.png" alt="sponsors-logo" class="img-fluid">
+									<img src="<?= base_url('assets/'); ?>images/sponsors/pt-spon-four.png" alt="sponsors-logo" class="img-fluid">
 								</a>
 							</div>
 						</li>
@@ -958,21 +958,21 @@
 						<li class="list-inline-item">
 							<div class="image-block text-center">
 								<a href="#">
-									<img src="images/sponsors/gl-spon-one.png" alt="sponsors-logo" class="img-fluid">
+									<img src="<?= base_url('assets/'); ?>images/sponsors/gl-spon-one.png" alt="sponsors-logo" class="img-fluid">
 								</a>
 							</div>
 						</li>
 						<li class="list-inline-item">
 							<div class="image-block text-center">
 								<a href="#">
-									<img src="images/sponsors/gl-spon-two.png" alt="sponsors-logo" class="img-fluid">
+									<img src="<?= base_url('assets/'); ?>images/sponsors/gl-spon-two.png" alt="sponsors-logo" class="img-fluid">
 								</a>
 							</div>
 						</li>
 						<li class="list-inline-item">
 							<div class="image-block text-center">
 								<a href="#">
-									<img src="images/sponsors/gl-spon-three.png" alt="sponsors-logo" class="img-fluid">
+									<img src="<?= base_url('assets/'); ?>images/sponsors/gl-spon-three.png" alt="sponsors-logo" class="img-fluid">
 								</a>
 							</div>
 						</li>
@@ -1007,7 +1007,7 @@
 				<div class="blog-post">
 					<div class="post-thumb">
 						<a href="news-single.html">
-							<img src="images/news/post-thumb-one.jpg" alt="post-image" class="img-fluid">
+							<img src="<?= base_url('assets/'); ?>images/news/post-thumb-one.jpg" alt="post-image" class="img-fluid">
 						</a>
 					</div>
 					<div class="post-content">
@@ -1040,7 +1040,7 @@
 				<div class="blog-post">
 					<div class="post-thumb">
 						<a href="news-single.html">
-							<img src="images/news/post-thumb-two.jpg" alt="post-image" class="img-fluid">
+							<img src="<?= base_url('assets/'); ?>images/news/post-thumb-two.jpg" alt="post-image" class="img-fluid">
 						</a>
 					</div>
 					<div class="post-content">
@@ -1073,7 +1073,7 @@
 				<div class="blog-post">
 					<div class="post-thumb">
 						<a href="news-single.html">
-							<img src="images/news/post-thumb-three.jpg" alt="post-image" class="img-fluid">
+							<img src="<?= base_url('assets/'); ?>images/news/post-thumb-three.jpg" alt="post-image" class="img-fluid">
 						</a>
 					</div>
 					<div class="post-content">

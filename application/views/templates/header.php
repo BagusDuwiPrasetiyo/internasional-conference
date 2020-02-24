@@ -39,7 +39,7 @@
   <div class="container-fluid p-0">
       <!-- logo -->
       <a class="navbar-brand" href="index.html">
-        <img src="images/logo.png" alt="logo">
+        <img src="<?= base_url('assets/'); ?>images/logo.png" alt="logo">
       </a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="fa fa-bars"></span>
@@ -98,7 +98,7 @@
         </li>
       </ul>
       <a href="#" class="ticket">
-        <img src="images/icon/ticket.png" alt="ticket">
+        <img src="<?= base_url('assets/'); ?>images/icon/ticket.png" alt="ticket">
         <span>Buy Ticket</span>
       </a>
       </div>
