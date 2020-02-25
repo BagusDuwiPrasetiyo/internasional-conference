@@ -107,7 +107,7 @@
 									<li><a href="contact.html">committee</a></li>
 									<li><a href="contact.html">registration fee</a></li>
 									<li><a href="contact.html">venue</a></li>
-									<li><a href="contact.html">committee</a></li>
+									<li><a href="contact.html">galery</a></li>
 									<li><a href="contact.html">committee</a></li>
 									<li><a href="contact.html">committee</a></li>
 									<li class="btn-cta"><a href="appointment.html"><span>Make an Appointment <i class="icon-calendar3"></i></span></a></li>
