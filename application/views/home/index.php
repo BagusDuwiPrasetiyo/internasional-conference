@@ -105,12 +105,10 @@
 									<li class="active"><a href="index-2.html">Home</a></li>
 									<li><a href="services.html">call for papers</a></li>
 									<li><a href="contact.html">committee</a></li>
-									<li><a href="contact.html">registration fee</a></li>
-									<li><a href="contact.html">venue</a></li>
+									<li class="btn-cta"><a href="appointment.html"><span>Registration fee <i class="icon-calendar3"></i></span></a></li>
 									<li><a href="contact.html">galery</a></li>
-									<li><a href="contact.html">committee</a></li>
-									<li><a href="contact.html">committee</a></li>
-									<li class="btn-cta"><a href="appointment.html"><span>Make an Appointment <i class="icon-calendar3"></i></span></a></li>
+									<li><a href="contact.html">submission system</a></li>
+									<li><a href="contact.html">about</a></li>
 								</ul>
 							</div>
 						</div>
@@ -123,51 +121,51 @@
 		<aside id="qbootstrap-hero">
 			<div class="flexslider">
 				<ul class="slides">
-					<li style="background-image: url(<?= base_url('assets/'); ?>images/img_bg_5.jpg);">
+					<li style="background-image: url(<?= base_url('assets/'); ?>images/bg_5.jpg);">
 						<div class="overlay"></div>
 						<div class="container">
 							<div class="row">
 								<div class="col-md-8 col-md-offset-2 text-center slider-text">
 									<div class="slider-text-inner">
-										<h1>Dr. <strong> Mary Smith</strong></h1>
-										<h2 class="doc-holder">Dr. Mary Smith's Plastic Surgery Clinic Welcomes You!</h2>
-										<h2>Free html5 templates Made by <a href="http://qbootstrap.com/" target="_blank">QBootstrap.com</a></h2>
+										<h1>Business Leaders <strong> CONFERENCE 2020</strong></h1>
+										<!-- <h2 class="doc-holder">Dr. Mary Smith's Plastic Surgery Clinic Welcomes You!</h2> -->
+										<!-- <h2>Free html5 templates Made by <a href="http://qbootstrap.com/" target="_blank">QBootstrap.com</a></h2> -->
 										<p><a class="btn btn-primary btn-lg" href="appointment.html">Make an Appointment</a></p>
 									</div>
 								</div>
 							</div>
 						</div>
 					</li>
-					<li style="background-image: url(<?= base_url('assets/'); ?>images/img_bg_1.jpg);">
+					<li style="background-image: url(<?= base_url('assets/'); ?>images/bg_4.jpg);">
 						<div class="overlay"></div>
 						<div class="container">
 							<div class="row">
 								<div class="col-md-8 col-md-offset-2 text-center slider-text">
 									<div class="slider-text-inner">
-										<h1>Dr. <strong> Mark Bowman</strong></h1>
-										<h2 class="doc-holder">Dr. Mark Bowman's Dental Clinic Welcomes You!</h2>
-										<h2>Free html5 templates Made by <a href="http://qbootstrap.com/" target="_blank">QBootstrap.com</a></h2>
+										<h1>Business Leaders <strong> CONFERENCE 2020</strong></h1>
+										<!-- <h2 class="doc-holder">Dr. Mark Bowman's Dental Clinic Welcomes You!</h2> -->
+										<!-- <h2>Free html5 templates Made by <a href="http://qbootstrap.com/" target="_blank">QBootstrap.com</a></h2> -->
 										<p><a class="btn btn-primary btn-lg" href="appointment.html">Make an Appointment</a></p>
 									</div>
 								</div>
 							</div>
 						</div>
 					</li>
-					<li style="background-image: url(<?= base_url('assets/'); ?>images/img_bg_2.jpg);">
+					<li style="background-image: url(<?= base_url('assets/'); ?>images/bg_6.jpg);">
 						<div class="overlay"></div>
 						<div class="container">
 							<div class="row">
 								<div class="col-md-8 col-md-offset-2 text-center slider-text">
 									<div class="slider-text-inner">
-										<h1>Have an Access to <strong>a Health Professional at any time</strong></h1>
-										<h2>Free html5 templates Made by <a href="http://qbootstrap.com/" target="_blank">QBootstrap.com</a></h2>
-										<p><a class="btn btn-primary btn-lg btn-learn" href="appointment.html">Make an Appointment</a></p>
+										<h1>Business Leaders  <strong> CONFERENCE 2020</strong></h1>
+										<!-- <h2>Free html5 templates Made by <a href="http://qbootstrap.com/" target="_blank">QBootstrap.com</a></h2>
+										<p><a class="btn btn-primary btn-lg btn-learn" href="appointment.html">Make an Appointment</a></p> -->
 									</div>
 								</div>
 							</div>
 						</div>
 					</li>
-					<li style="background-image: url(<?= base_url('assets/'); ?>images/img_bg_3.jpg);">
+					<!-- <li style="background-image: url(<?= base_url('assets/'); ?>images/img_bg_3.jpg);">
 						<div class="overlay"></div>
 						<div class="container">
 							<div class="row">
@@ -180,7 +178,7 @@
 								</div>
 							</div>
 						</div>
-					</li>
+					</li> -->
 				</ul>
 			</div>
 		</aside>
