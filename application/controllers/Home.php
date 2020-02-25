@@ -1,17 +1,15 @@
-<?php 
+<?php
 
-defined('BASEPATH') OR exit('No direct script access allowed');
+defined('BASEPATH') or exit('No direct script access allowed');
 
-class Home extends CI_Controller {
+class Home extends CI_Controller
+{
 
 	public function index()
 	{
 		$data['title'] = 'home';
-		$this->load->view('templates/header', $data, FALSE);
 		$this->load->view('home/index', $data, FALSE);
-		$this->load->view('templates/footer', $data, FALSE);
 	}
-
 }
 
 /* End of file Home.php */
